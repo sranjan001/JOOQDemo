@@ -12,10 +12,10 @@ public class Person {
     @Id
     private Long id;
 
-    @Column
+    @Column(name = "FIRSTNAME")
     private String firstName;
 
-    @Column
+    @Column(name = "LASTNAME")
     private String lastName;
 
     public Long getId() {

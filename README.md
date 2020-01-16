@@ -1,1 +1,2 @@
-./mvnw generate-sources# JOOQDemo
+./mvnw generate-sources
+
